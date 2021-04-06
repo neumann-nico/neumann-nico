@@ -42,8 +42,10 @@ Check out my LinkedIn page: [click here](https://www.linkedin.com/in/neumann-nic
   </tbody>
 </table>
 
+<!--
 ### Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=neumann-nico&show_icons=true)
+-->
 
 <!--
 **neumann-nico/neumann-nico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
