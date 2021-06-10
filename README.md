@@ -1,16 +1,14 @@
-### About me
+## About me
 
 My Name is Nico Neumann
 - 😄 I’m highly interested in autonomous driving, computer vision and robotics
 - 📚 I'm studying computer science master
 - 🎵 I love playing guitar in my free time
 
-Check out my LinkedIn page: [click here](https://www.linkedin.com/in/neumann-nico/)
-<!--
-![https://www.linkedin.com/in/neumann-nico/](LinkedIn.svg)
--->
+[<img src="LinkedIn.svg" width="120">](https://www.linkedin.com/in/neumann-nico/)
 
-### My top skills
+
+## My top skills
 <table>
   <tbody>
     <tr valign="top">
