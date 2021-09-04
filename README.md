@@ -5,7 +5,9 @@ My Name is Nico Neumann
 - 📚 I'm studying computer science master
 - 🎵 I love playing guitar in my free time
 
-[<img src="LinkedIn.svg" width="120">](https://www.linkedin.com/in/neumann-nico/)
+<!-- markdown-link-check-disable -->
+[![Linkedin: neumann-nico](https://img.shields.io/badge/-Nico%20Neumann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neumann-nico/)](https://www.linkedin.com/in/neumann-nico/)
+<!-- markdown-link-check-enable -->
 
 
 ## My top skills
