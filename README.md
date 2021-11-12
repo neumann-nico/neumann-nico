@@ -1,8 +1,8 @@
 ## About me
 
 My Name is Nico Neumann
-- 😄 I’m highly interested in autonomous driving, computer vision and robotics
-- 📚 I'm studying computer science master
+- :heart_eyes: I’m highly interested in autonomous driving, computer vision and robotics
+- :computer: I'm a Software Engineer
 - 🎵 I love playing guitar in my free time
 
 <!-- markdown-link-check-disable -->
