@@ -11,7 +11,7 @@ My Name is Nico Neumann
 
 
 ## My top skills
-<table style="background-color: white; color: black;">
+<table style="background-color: white !important; color: black !important;">
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
