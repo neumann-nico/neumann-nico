@@ -11,48 +11,48 @@ My Name is Nico Neumann
 
 
 ## My top skills
-<table style="background-color: white !important; color: black !important;">
+<table>
   <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
+    <tr valign="top" align="center">
+      <td width="20%">
         <span>Python</span><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="20%">
         <span>C++</span><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="20%">
         <span>AWS</span><br><br>
         <img height="55px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="20%">
         <span>Linux</span><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="20%">
         <span>Kubernetes</span><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg">
       </td>
     </tr>
-    <tr>
-      <td width="20%" align="center">
+    <tr valign="top" align="center">
+      <td width="20%">
         <span>Docker</span><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="20%">
         <span>Github Actions</span><br><br>
         <img height="64px" height="0%" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="20%">
         <span>Terraform</span><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="20%">
         <span>MongoDB</span><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/en/5/5a/MongoDB_Fores-Green.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="20%">
         <span>PostgreSQL</span><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
       </td>
