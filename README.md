@@ -11,10 +11,9 @@ My Name is Nico Neumann
 
 
 ## My top skills
-<table>
+<table style="background-color: white; color: black;">
   <tbody>
-    <!-- use white backgroud with black text !-->
-    <tr valign="top" style="background-color: white; color: black;">
+    <tr valign="top">
       <td width="20%" align="center">
         <span>Python</span><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
@@ -36,7 +35,7 @@ My Name is Nico Neumann
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg">
       </td>
     </tr>
-    <tr valign="top" style="background-color: white; color: black;">
+    <tr>
       <td width="20%" align="center">
         <span>Docker</span><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg">
